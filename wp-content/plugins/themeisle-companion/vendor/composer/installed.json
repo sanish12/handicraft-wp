@@ -1,0 +1,82 @@
+[
+    {
+        "name": "codeinwp/themeisle-sdk",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Codeinwp/themeisle-sdk.git",
+            "reference": "032c9dcc34c7c8589eebe3e0b3c72418fcbd3d76"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/032c9dcc34c7c8589eebe3e0b3c72418fcbd3d76",
+            "reference": "032c9dcc34c7c8589eebe3e0b3c72418fcbd3d76",
+            "shasum": ""
+        },
+        "time": "2018-01-13 12:07:08",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "load.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "ThemeIsle team",
+                "email": "friends@themeisle.com",
+                "homepage": "https://themeisle.com"
+            }
+        ],
+        "description": "ThemeIsle SDK ",
+        "homepage": "https://github.com/Codeinwp/themeisle-sdk",
+        "keywords": [
+            "wordpress"
+        ]
+    },
+    {
+        "name": "codeinwp/themeisle-content-forms",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Codeinwp/themeisle-content-forms.git",
+            "reference": "7c5e9bc9267041b4b0ff6425d977006f4ddc1a23"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Codeinwp/themeisle-content-forms/zipball/7c5e9bc9267041b4b0ff6425d977006f4ddc1a23",
+            "reference": "7c5e9bc9267041b4b0ff6425d977006f4ddc1a23",
+            "shasum": ""
+        },
+        "time": "2018-01-15 13:10:19",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "load.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "ThemeIsle team",
+                "email": "friends@themeisle.com",
+                "homepage": "https://themeisle.com"
+            }
+        ],
+        "description": "ThemeIsle Content Forms ",
+        "homepage": "https://github.com/Codeinwp/themeisle-content-forms",
+        "keywords": [
+            "wordpress"
+        ]
+    }
+]
